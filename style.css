@@ -1,0 +1,27 @@
+.top {
+	height: 100px;
+}
+.main {
+	height: 1300px;
+}
+.button {
+	border-radius: 5px;
+	border: none;
+	background-color: #458af9;
+	color: white;
+	height: 37px;
+	margin-left: 4px;
+	margin-top: 6px;
+}
+.input {
+	height: 32px;
+	margin-top: 8px;
+	margin-right: 4px;
+	margin-left: 150px
+}
+.what {
+	height: 50px;
+}
+input {
+	color: grey;
+}
